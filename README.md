@@ -2,6 +2,11 @@
 
 Minimal notes and tasks web app
 
+---
+
+[![JavaScript Style Guide](https://cdn.rawgit.com/standard/standard/master/badge.svg)](https://github.com/standard/standard)
+
+
 ## Motivation
 
 I've got an old list styled todo list currently hosted at [todo.reaper.im](https://todo.reaper.im) and while it does the job, there's no classification, there's no way for me to find when I actually added the task. I prefer a backlog style list of tasks that I can also use as a set of notes or research that I did, while I'd like this to be a offline first app, the initial version is going to be a really simple portal to store notes and task lists.
