@@ -110,7 +110,7 @@ export default function Home () {
             <div className='col-md-6 my-md-auto mb-5 mb-md-0 text-center text-md-left'>
               <span className='text-uppercase text-muted small-xl'>Roll</span>
               <h1 className='display-4 mt-2 mb-5'>
-                Minimal notes and tasks 
+                Minimal notes and tasks
               </h1>
               <a
                 href='#'
