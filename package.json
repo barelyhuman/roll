@@ -9,6 +9,7 @@
     "fix": "npx standard --fix || true"
   },
   "dependencies": {
+    "@popperjs/core": "^2.6.0",
     "knex": "^0.21.17",
     "mongodb": "^3.6.4",
     "next": "10.0.5",
@@ -22,6 +23,10 @@
       "/.next",
       "/node_modules",
       "/out"
+    ],
+    "globals":[
+      "$",
+      "feather"
     ]
   },
   "devDependencies": {
